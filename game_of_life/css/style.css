@@ -1,0 +1,15 @@
+#game_table { 
+	width: auto;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+#game_table td {
+	border: 0px;
+}
+.cell {
+	width: 6px;
+	height: 6px;
+}
+.btn {
+	margin-bottom: 4px;
+}
